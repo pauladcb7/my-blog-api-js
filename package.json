@@ -1,0 +1,16 @@
+{
+  "name": "my-blog-api-js",
+  "version": "1.0.0",
+  "description": "My Blog APP using APIs and with JS and NodeJS",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paula Del Carpio",
+  "license": "ISC"
+}
